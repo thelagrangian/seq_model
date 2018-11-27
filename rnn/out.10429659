@@ -1,0 +1,4 @@
+/share/apps/pytorch/0.3.0_4/python3.6/lib/python3.6/site-packages/torch/serialization.py:316: SourceChangeWarning: source code of class 'model.seqRNN' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+171
+1000
